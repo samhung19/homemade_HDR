@@ -1,1 +1,1 @@
-# homemade_HDR
+# lighting_merge
